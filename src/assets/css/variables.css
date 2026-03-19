@@ -1,0 +1,20 @@
+
+:root {
+    --primary-teal: #B2DFDB;     
+    --secondary-mint: #E0F2F1;  
+    --accent-teal: #4DB6AC;     
+    --sidebar-gray: #ECEFF1;   
+    --btn-gray: #CFD8DC;       
+    
+    --bg-white: #FFFFFF;
+    --text-dark: #263238;        
+    
+
+    --calendar-border: #CFD8DC;  
+    --error-red: #EF5350;
+
+    --font-main: 'Nunito', sans-serif;
+    --font-weight-light: 300;
+    --font-weight-reg: 400;
+    --font-weight-bold: 700;
+}
