@@ -52,3 +52,19 @@ El proyecto sigue una estructura limpia y escalable basada en:
 * **Frontend**: JavaScript (ES6+), CSS3 (Flexbox/Grid), HTML5.
 * **Backend as a Service**: Supabase.
 * **Librerías**: FullCalendar API.
+## 8. Requeriminetos para la ejecucion del Programa
+🚀 Cómo ejecutar el proyecto en otra computadora
+Para poner en marcha la agenda en un nuevo equipo, sigue estos pasos:
+
+### 1. Requisitos Previos
+Asegúrate de tener instalado:
+Node.js (versión LTS recomendada).
+### 2. Instalación de Dependencias
+Debes situarte en la raíz del proyecto desde tu terminal y ejecutar lo sigiente en un cmd dentro de la carpeta src_1: **npm install** 
+Este comando instalará FullCalendar v6, el cliente de Supabase y las herramientas de construcción necesarias.
+### 3. Configuración de Base de Datos
+El proyecto ya está conectado a la instancia de Supabase mediante las credenciales en src/api/supabaseClient.js.
+Asegúrate de que la computadora tenga conexión a internet para que el servicio pueda consultar y guardar las citas en la nube.
+### 4. Ejecución del Servidor de Desarrollo
+Una vez instaladas las dependencias, inicia el sistema con el sigueinte comando en terminal: **npm run dev**
+Copia la dirección local que aparezca en la terminal (por ejemplo, http://localhost:5173) y ábrela en tu navegador (preferiblemente Chrome o Edge para asegurar la correcta visualización de las fuentes Nunito y los Toasts).
