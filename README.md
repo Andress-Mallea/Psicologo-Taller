@@ -1,4 +1,4 @@
-<img width="1270" height="608" alt="image" src="https://github.com/user-attachments/assets/afd69968-8f44-46c2-82b1-ae17bfeeb5d8" /># Sistema de Gestión de Consultas Psicológicas
+Consultas Psicológicas
 
 Este proyecto es una solución integral de software diseñada para optimizar la administración de citas en consultorios psicológicos, reemplazando la gestión ineficiente mediante mensajería directa (WhatsApp) por una interfaz de calendario profesional y robusta.
 
@@ -47,8 +47,9 @@ El proyecto sigue una estructura limpia y escalable basada en:
 | **HU-03** | Cancelacion de Sesion | Alta | 5 pts |
 | **HU-04** | Visualización de Agenda Semanal | Media | 8 pts |
 | **HU-05** | Visualización de Agenda Semanal | Media | 8 pts |
-
-## 7. Tecnologías Utilizadas
+## 7. Arquitefctura 
+<img width="1270" height="608" alt="image" src="https://github.com/user-attachments/assets/afd69968-8f44-46c2-82b1-ae17bfeeb5d8" /># Sistema de Gestión de 
+## 8. Tecnologías Utilizadas
 * **Frontend**: JavaScript (ES6+), CSS3 (Flexbox/Grid), HTML5.
 * **Backend as a Service**: Supabase.
 * **Librerías**: FullCalendar API.
