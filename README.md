@@ -1,4 +1,4 @@
-# Sistema de Gestión de Consultas Psicológicas
+<img width="1270" height="608" alt="image" src="https://github.com/user-attachments/assets/afd69968-8f44-46c2-82b1-ae17bfeeb5d8" /># Sistema de Gestión de Consultas Psicológicas
 
 Este proyecto es una solución integral de software diseñada para optimizar la administración de citas en consultorios psicológicos, reemplazando la gestión ineficiente mediante mensajería directa (WhatsApp) por una interfaz de calendario profesional y robusta.
 
@@ -43,10 +43,10 @@ El proyecto sigue una estructura limpia y escalable basada en:
 | ID | Historia de Usuario | Prioridad | Esfuerzo |
 |:---|:---|:---:|:---:|
 | **HU-01** | Registro con Validación de Disponibilidad (No Overlap) | Muy Alta | 8 pts |
-| **HU-02** | Gestión de Estados (Pendiente, Confirmada, Cancelada) | Alta | 5 pts |
-| **HU-03** | Reprogramación Flexible de Sesiones | Alta | 5 pts |
+| **HU-02** | Reprogramación Flexible de Sesiones | Alta | 5 pts |
+| **HU-03** | Cancelacion de Sesion | Alta | 5 pts |
 | **HU-04** | Visualización de Agenda Semanal | Media | 8 pts |
-| **HU-05** | Buscador Rápido de Pacientes | Media | 3 pts |
+| **HU-05** | Visualización de Agenda Semanal | Media | 8 pts |
 
 ## 7. Tecnologías Utilizadas
 * **Frontend**: JavaScript (ES6+), CSS3 (Flexbox/Grid), HTML5.
